@@ -1,0 +1,8 @@
+{
+  "python.linting.pep8Enabled": false,
+  "python.linting.flake8Enabled": false,
+  "python.linting.enabled": true,
+  "python.linting.banditEnabled": false,
+  "python.linting.pylintEnabled": false,
+  "python.linting.pydocstyleEnabled": true
+}
