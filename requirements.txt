@@ -44,7 +44,7 @@ Pygments==2.2.0
 pylama==7.6.5
 pylint==2.1.1
 pystache==0.5.4
-PyYAML==3.13
+PyYAML==5.4
 requests==2.19.1
 simplegeneric==0.8.1
 six==1.11.0
